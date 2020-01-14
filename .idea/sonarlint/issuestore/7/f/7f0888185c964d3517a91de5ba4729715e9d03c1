@@ -1,0 +1,16 @@
+
+gsquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(°»®ã
+ksquid:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(³›è‡úÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ÿµ·ÿÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.logging.FileHandler'.(—­—å
+Tsquid:S1197"8Move the array designator from the variable to the type.(¿šˆùÿÿÿÿ
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ê³ı›
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(’°ù‹
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ƒ¹ÿÕ
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Êöí•ÿÿÿÿÿ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¬¶˜Œ
